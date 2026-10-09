@@ -1,0 +1,7 @@
+torch>=2.5
+transformers>=4.53
+peft>=0.13
+decord>=0.6
+Pillow
+numpy
+scipy
